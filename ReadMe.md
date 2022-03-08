@@ -12,3 +12,5 @@ This is a project to practice [GitHub](https://www.GitHub.com) in *class* (.....
 - Bullet one
 - Bullet two
 
+## Version
+git version 2.35.1
